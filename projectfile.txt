@@ -1,3 +1,5 @@
 This is the project file used by the entire team
 
 employee1 is working in the project
+
+employee2 is working in the project
